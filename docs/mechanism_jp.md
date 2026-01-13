@@ -1,4 +1,4 @@
-#react-furry-error 実装メカニズム
+# react-furry-error 実装メカニズム
 
 このセクションでは、react-furry-error の内部実装の考え方を簡単に説明し、開発者がそのコア動作メカニズムを理解できるようにします。
 
