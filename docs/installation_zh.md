@@ -2,40 +2,9 @@
 
 ## 1．furry-ts-errors（VSCode插件）安装指南
 
-## 1.1 安装 VSIX 文件
+在VSCode插件市场中直接搜索安装 `Furry TypeScript Errors` 即可
 
-[furry-ts-errors项目地址](https://github.com/MasaoMinn/furry-ts-errors/tree/feature/fursona-errors "furry-ts-errors项目地址")
-
-点击连接后找到release，下载furry-ts-errors.vsix．（可以顺便给我个⭐，感谢）
-
-## 1.2在 Visual Studio 和 Visual Studio Code 中安装 VSIX 文件的方法如下
-
-## Visual Studio
-
-1．打开 Visual Studio。
-2．选择＂扩展＂菜单，然后选择＂管理扩展＂。
-3．在＂管理扩展＂窗口中，选择＂安装来自 VSIX＂。
-4．浏览并选择要安装的 VSIX 文件，然后点击＂安装＂。
-
-## Visual Studio Code
-
-1．打开 Visual Studio Code。
-2．在扩展视图中，点击右上角的＂．．．＂按钮，选择＂从 VSIX 安装＂。
-3．浏览并选择要安装的 VSIX 文件，然后点击＂安装＂。
-4．安装完成后，重启 Visual Studio Code 即可。
-
-## 使用命令行安装 VSIX 文件
-
-你也可以使用命令行来安装 VSIX 文件。以下是具体步骤：
-
-- 打开命令行窗口（如 Terminal 或 PowerShell）。
-- 输入以下命令来安装 VSIX 文件：
-
-```bash
-code --install-extension path/to/your-extension.vsix
-```
-
-－执行命令后，重启 Visual Studio Code 即可看到安装的扩展。
+![Furry TypeScript Errors](assets/20260120_165631_image.png)
 
 ## 2．react－furry－error（React 开发环境依赖）安装指南
 

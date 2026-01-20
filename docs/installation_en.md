@@ -2,6 +2,14 @@
 
 ## Installation
 
+## 1．furry-ts-errors（VSCode Extension） Installation Guide
+
+Search for `Furry TypeScript Errors` in the VSCode extension market and install it.
+
+![Furry TypeScript Errors](assets/20260120_165631_image.png)
+
+## 2．react－furry－error（React Development Environment Dependency） Installation Guide
+
 ### 1. Install the package
 
 Using npm:
